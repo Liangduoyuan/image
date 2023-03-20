@@ -1,2 +1,2 @@
 # image
-upic hosting
+PicList hosting
